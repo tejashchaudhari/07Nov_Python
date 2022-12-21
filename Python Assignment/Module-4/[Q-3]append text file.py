@@ -1,0 +1,6 @@
+open('test.txt')
+f1=open('test.txt','a')
+id=input("enter the id num:")
+name=input("enter the name:")
+city=input("enter the city:")
+f1.write(f"student id is:{id}\nstudent Name:{name}\ncity:{city}\n")

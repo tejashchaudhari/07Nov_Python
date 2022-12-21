@@ -1,0 +1,1 @@
+open('hello2.txt','x')
